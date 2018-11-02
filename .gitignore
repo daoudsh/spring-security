@@ -1,0 +1,9 @@
+/oauth-resource/bin
+/oauth-resource/target
+/oauth-resource/.classpath
+/oauth-resource/.project
+/oauth-resource/.settings
+/oauth-server/.classpath
+/oauth-server/.project
+/oauth-server/.settings
+/oauth-server/target
